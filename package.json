@@ -1,0 +1,19 @@
+{
+  "name": "4_chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "engines": {
+    "node": "14.15.0"
+  },
+  "dependencies": {
+    "express": "^4.14.1",
+    "socket.io": "^1.7.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Rodriguez Flores Daniel",
+  "license": "ISC"
+}
